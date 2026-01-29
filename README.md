@@ -1,7 +1,7 @@
 # Superstore Sales Analysis: A Data-Driven Journey in SQL
 
 ### Why I Chose This Project
-As a business analytics student, I'm fascinated by how data can solve real-world problems. I chose this project to move beyond theory and get my hands dirty answering a classic business question: **What really drives profit in a business, and how can we find opportunities to improve?**
+As a B.Tech student, I'm fascinated by how data can solve real-world problems. I chose this project to move beyond theory and get my hands dirty answering a classic business question: **What really drives profit in a business, and how can we find opportunities to improve?**
 
 My goal was to act as a business analyst for a fictional Superstore, using their sales data to uncover insights that could lead to smarter, more profitable decisions.
 
